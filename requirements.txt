@@ -1,0 +1,18 @@
+# Core
+numpy
+pandas
+matplotlib
+seaborn
+jupyter
+
+# Supervised Learning (Classification & Regression)
+scikit-learn
+kagglehub
+
+# Deep Learning (CNN - EuroSAT)
+torch
+torchvision
+
+# Reinforcement Learning (Q-Learning, DQN, PPO, SAC)
+gymnasium[box2d]
+stable-baselines3
